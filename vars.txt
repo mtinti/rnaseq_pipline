@@ -1,0 +1,33 @@
+[
+{'experiment': 'iRNAvivo',
+'g_version': 'tb927',
+'base_fastq':'14256_1#1_'
+},
+
+{'experiment': 'iRNAvivo',
+'g_version': 'tb927',
+'base_fastq':'14256_1#2_'
+},
+
+{'experiment': 'iRNAvivo',
+'g_version': 'tb927',
+'base_fastq':'14256_1#3_'
+},
+
+{'experiment': 'iRNAvivo',
+'g_version': 'tb927',
+'base_fastq':'14256_1#4_'
+},
+
+{'experiment': 'iRNAvivo',
+'g_version': 'tb927',
+'base_fastq':'ERR023000_'
+},
+
+{'experiment': 'iRNAvivo',
+'g_version': 'tb927',
+'base_fastq':'ERR023001_'
+},
+
+]
+
